@@ -5,7 +5,7 @@
     "users":[
         {
         "username": "admin",
-        "password": "terraformui",
+        "password": "admin",
         "groups": ["admin"]
       }
     ]
